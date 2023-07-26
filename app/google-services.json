@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150633462701",
+    "firebase_url": "https://my-chat-app-2bd00-default-rtdb.firebaseio.com",
+    "project_id": "my-chat-app-2bd00",
+    "storage_bucket": "my-chat-app-2bd00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150633462701:android:1db9093d945ac79dff7f24",
+        "android_client_info": {
+          "package_name": "com.sveri.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150633462701-3mrnnvkrim14j4d1lpvf0ujhql2ppp5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgi09RK-c77vtQ5leGw909YgLdD-M72xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150633462701-1jd6hvc9fqsi95ep18hlddhl52qmdaom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
